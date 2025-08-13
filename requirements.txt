@@ -1,0 +1,19 @@
+# El super usuario es lucas 
+# Contraseña  admin
+# gonzalez@example.com
+
+# Python 3.12.6
+# pip 24.2
+
+asgiref==3.9.1
+Django==5.2
+sqlparse==0.5.3
+tzdata==2025.2
+
+"""
+Mensaje para el Futuro: una vez que descomprimo el proyecto y lo abro en el vs code
+En la carpeta raiz, creo el entorno virtual python -m venv env (env es el nombre del entorno)
+Activamos env\Scripts\activate y en el nuevo equipo o donde quisieramos correr el project
+Hacemos en la terminal  pip install -r requirements.txt
+Por último ejecutamos el servidor y probamos  python manage.py runserver
+"""
